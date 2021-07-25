@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is FireGram app where user can store the images at the same time images are displayed on dashboard.
+
+TechStack used:-
+->React.js
+->Firebase ,for storage and data base functionalities
+->Framer Motion ,for Creating animation for various components
+->html and css
+
 ## Available Scripts
 
 In the project directory, you can run:
