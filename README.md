@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 APPLICATION LINK -https://romantic-euclid-45fc0b.netlify.app/
 
-### Demo Video - https://youtu.be/J3fU-evsu9w
+### Project Demo Video - https://youtu.be/J3fU-evsu9w
 
 This is FireGram app where user can store the images at the same time images are displayed on dashboard.
 
