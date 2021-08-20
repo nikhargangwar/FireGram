@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-APPLICATION LINK -https://romantic-euclid-45fc0b.netlify.app/
+## APPLICATION LINK -https://romantic-euclid-45fc0b.netlify.app/
 
 ### Project Demo Video - https://youtu.be/J3fU-evsu9w
 
